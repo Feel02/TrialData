@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Deneme1" },
-    { "id": 2, "title": "Deneme2" },
-    { "id": 3, "title": "Deneme3" }
+    { "id": 1, "title": "Deneme1" , "command":"com1"},
+    { "id": 2, "title": "Deneme2" ,"command":"com2"},
+    { "id": 3, "title": "Deneme3" ,"command":"com3"}
   ],
   "comments": [
     { "id": 1, "body": "Command1", "postId": 1 },
