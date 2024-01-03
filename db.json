@@ -5,8 +5,7 @@
     { "id": 3, "title": "Deneme3"}
   ],
   "comments": [
-    { "id": 1, "body": "
-Introduction:
+    { "id": 1, "body": "Introduction:
 The presence of stray animals in urban areas not only tugs at our heartstrings but also intersects with public health concerns. In this exploration, we delve into the multifaceted issue of stray animals in relation to public health, highlighting the need for comprehensive strategies that safeguard both the vulnerable creatures and the well-being of the communities they inhabit.
 
 Zoonotic Disease Transmission:
@@ -25,8 +24,7 @@ Animal-Assisted Therapy and Community Bonding:
 Stray animals, when properly managed and integrated, can contribute to animal-assisted therapy programs that positively impact mental health. Community initiatives that harness the therapeutic benefits of animal-human interactions create opportunities for bonding, reducing stress, and fostering a sense of shared responsibility for the well-being of both humans and animals.
 
 Conclusion:
-The intersection of stray animals and public health calls for a nuanced and comprehensive approach. By addressing the challenges of zoonotic disease transmission, population control, waste management, and promoting responsible interaction, we can create a harmonious coexistence that not only safeguards public health but also recognizes the intrinsic value of compassion in building resilient and connected communities. Balancing the needs of stray animals with the well-being of the public ensures a healthier, more compassionate urban environment for all.
-      ", "postId": 1 },
+The intersection of stray animals and public health calls for a nuanced and comprehensive approach. By addressing the challenges of zoonotic disease transmission, population control, waste management, and promoting responsible interaction, we can create a harmonious coexistence that not only safeguards public health but also recognizes the intrinsic value of compassion in building resilient and connected communities. Balancing the needs of stray animals with the well-being of the public ensures a healthier, more compassionate urban environment for all.", "postId": 1 },
     { "id": 2, "body": "Command2", "postId": 2 },
     { "id": 3, "body": "Command3", "postId": 3 }
   ],
