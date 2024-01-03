@@ -6,8 +6,8 @@
   ],
   "comments": [
     { "id": 1, "body": "Command1", "postId": 1 },
-    { "id": 2, "body": "Command2", "postId": 1 },
-    { "id": 3, "body": "Command3", "postId": 1 }
+    { "id": 2, "body": "Command2", "postId": 2 },
+    { "id": 3, "body": "Command3", "postId": 3 }
   ],
   "profile": {
     "name": "typicode"
